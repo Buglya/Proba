@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('777115.jpg'); 
+    background-size: cover;    
+    background-position: center;  
+    background-attachment: fixed;
+  }
+  
+  
+  .rounded-box {
+    width: 80%;    
+    max-width: 1200px;   
+    margin: 50px auto;     
+    padding: 30px;       
+    background-color: #e0f7fa; 
+    border-radius: 10px;   
+    border: 5px solid #4fc3f7; 
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(20px);
+    background: transparent;   
+  }
+  
+  header img {
+    width: 25%;
+    height: 150px;
+    display: block;
+    margin: 0 auto; 
+  }
+  
+  #p1 {
+    text-align: right;
+    font-size: larger;
+    color: gold;
+    margin: 0;
+  }
+
+  h1{
+    text-align: center;
+  }
+
+  #idopont{
+    border: 3px solid white;
+    width: 350px;
+    margin: auto;
+    rotate: 8deg;
+    float: right;
+  }
+
+#gomb{
+    width: 200px;
+    height: 150px;
+}
+  
+#gyk{
+    width: 350px;
+    height: 150px;
+}
+
+  
